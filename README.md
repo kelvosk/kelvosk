@@ -23,7 +23,3 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
-<div>
-   <img height="165px" src="https://github-readme-stats.vercel.app/api?username=kelvosk&count_private=true&show_icons=true&theme=github_dark_dimmed">
-   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvosk&count_private=true&show_icons=true&theme=github_dark_dimmed">
-</div>
